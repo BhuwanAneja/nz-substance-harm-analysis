@@ -2,8 +2,7 @@
 
 Group project analysing how drug-related police activity differs across New Zealand police districts, written for a New Zealand Government audience.
 
-**Team:** Crime Busters ([add teammates' names]) · **Course:** [add course code], University of Auckland, 2026
-**My contribution:** [describe what you did, e.g. data cleaning, regression modelling, Auckland analysis, slides]
+*Group project, University of Auckland, 2026.*
 
 ## Question
 Do police districts differ in their rates of drug-related police action, and do the types of drugs involved differ too?
